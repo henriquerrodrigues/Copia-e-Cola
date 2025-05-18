@@ -1,0 +1,10 @@
+C:\CSharp\CopiaColaApp\CopiaColaApp\bin\Debug\CopiaColaApp.exe.config
+C:\CSharp\CopiaColaApp\CopiaColaApp\bin\Debug\CopiaColaApp.exe
+C:\CSharp\CopiaColaApp\CopiaColaApp\bin\Debug\CopiaColaApp.pdb
+C:\CSharp\CopiaColaApp\CopiaColaApp\obj\Debug\CopiaColaApp.csproj.AssemblyReference.cache
+C:\CSharp\CopiaColaApp\CopiaColaApp\obj\Debug\CopiaColaApp.Form1.resources
+C:\CSharp\CopiaColaApp\CopiaColaApp\obj\Debug\CopiaColaApp.Properties.Resources.resources
+C:\CSharp\CopiaColaApp\CopiaColaApp\obj\Debug\CopiaColaApp.csproj.GenerateResource.cache
+C:\CSharp\CopiaColaApp\CopiaColaApp\obj\Debug\CopiaColaApp.csproj.CoreCompileInputs.cache
+C:\CSharp\CopiaColaApp\CopiaColaApp\obj\Debug\CopiaColaApp.exe
+C:\CSharp\CopiaColaApp\CopiaColaApp\obj\Debug\CopiaColaApp.pdb
